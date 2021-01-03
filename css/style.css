@@ -37,6 +37,40 @@ body {
 }
 
 /* ----------------------------------------------- */
+/*  NAVBAR                                         */
+/* ----------------------------------------------- */
+
+.activo {
+  color: white;
+  font-weight: bold;
+  padding-bottom: 5px;
+  border-bottom: 4px solid white;
+}
+
+.no-activo {
+  color: #b3b3b3;
+  font-weight: bold;
+}
+
+.no-activo:hover {
+  color: #3d46d6;
+  font-weight: bold;
+  padding-bottom: 5px;
+  border-bottom: 4px solid #3d46d6;
+}
+
+/* ----------------------------------------------- */
+/*  SECCIONES                                      */
+/* ----------------------------------------------- */
+
+.section-2 {
+  background-color: var(--azul-secondary);
+  background-image: url("/img/divider-1.png");
+  background-position: top center;
+  background-repeat: no-repeat;
+}
+
+/* ----------------------------------------------- */
 /*  INICIO                                         */
 /* ----------------------------------------------- */
 
