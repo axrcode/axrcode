@@ -65,7 +65,7 @@ body {
 
 .section-2 {
   background-color: var(--azul-secondary);
-  background-image: url("/img/divider-1.png");
+  background-image: url(../img/divider-1.png);
   background-position: top center;
   background-repeat: no-repeat;
 }
