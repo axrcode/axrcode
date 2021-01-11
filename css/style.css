@@ -8,13 +8,21 @@
 :root {
   --azul-primary: #202833;
   --azul-secondary: #2b3443;
+  --azul-third: #1b212a;
   --azul-divider-primary: #3d46d6;
   --animate-duration: 2000ms;
 }
 
 body {
+  padding-top: 70px;
   background-color: var(--azul-primary);
   color: white;
+}
+
+@media screen and (max-width: 800px) {
+  body {
+    padding-top: 120px;
+  }
 }
 
 .radius {
@@ -27,6 +35,10 @@ body {
 
 .azul-secondary {
   background-color: var(--azul-secondary);
+}
+
+.azul-third {
+  background-color: var(--azul-third);
 }
 
 .divisor-primary::after {
@@ -71,6 +83,13 @@ body {
   background-repeat: no-repeat;
 }
 
+.section-tech {
+  background-color: var(--azul-primary);
+  background-image: url(../img/divider-2.png);
+  background-position: top center;
+  background-repeat: no-repeat;
+}
+
 /* ----------------------------------------------- */
 /*  INICIO                                         */
 /* ----------------------------------------------- */
@@ -79,8 +98,16 @@ body {
   font-size: 350%;
 }
 
+.tarjeta-tech {
+  padding: 0px 250px;
+}
+
 @media screen and (max-width: 430px) {
   .titulo-encabezado {
     font-size: 200%;
+  }
+
+  .tarjeta-tech {
+    padding: 0px 10px;
   }
 }
