@@ -102,6 +102,24 @@ body {
   padding: 0px 250px;
 }
 
+.perfil {
+  width: 15%;
+  border: 5px solid var(--azul-divider-primary);
+  padding: 5px;
+}
+
+.perfil-links {
+  color: white;
+  font-size: 200%;
+  transition: all 0.2s;
+}
+
+.perfil-links:hover {
+  color: var(--azul-divider-primary);
+  font-size: 200%;
+  transition: all 0.2s;
+}
+
 @media screen and (max-width: 430px) {
   .titulo-encabezado {
     font-size: 200%;
@@ -109,5 +127,9 @@ body {
 
   .tarjeta-tech {
     padding: 0px 10px;
+  }
+
+  .perfil {
+    width: 50%;
   }
 }
