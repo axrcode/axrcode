@@ -24,6 +24,9 @@
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+    <img src="https://img.shields.io/badge/Tailwindcss-0099AB?style=for-the-badge&logo=tailwindcss&logoColor=white">
+    <img src="https://img.shields.io/badge/React-0584BC?style=for-the-badge&logo=react&logoColor=white">
+    <img src="https://img.shields.io/badge/vue.js-3EAF7C?style=for-the-badge&logo=vue.js&logoColor=white">
 </p>
 
 <h3>Backend Development</h3>
