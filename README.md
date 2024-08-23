@@ -27,6 +27,7 @@
     <img src="https://img.shields.io/badge/Tailwindcss-0099AB?style=for-the-badge&logo=tailwindcss&logoColor=white">
     <img src="https://img.shields.io/badge/React-0584BC?style=for-the-badge&logo=react&logoColor=white">
     <img src="https://img.shields.io/badge/vue.js-3EAF7C?style=for-the-badge&logo=vue.js&logoColor=white">
+    <img src="https://img.shields.io/badge/Livewire-CE337F?style=for-the-badge&logo=livewire&logoColor=white">
 </p>
 
 <h3>Backend Development</h3>
@@ -34,7 +35,7 @@
 <p>
     <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
     <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-    <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white">
     <img src="https://img.shields.io/badge/MySQL-1F2023?style=for-the-badge&logo=mysql&logoColor=white">
 </p>
 
