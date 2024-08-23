@@ -5,7 +5,7 @@
     "data" : 
     { 
         "Linkedin" : "https://www.linkedin.com/in/axrcode/", 
-        "Resume"   : "https://axrcode.github.io/",
+        "Resume"   : "https://axrcode.vercel.app/",
         "IG"       : "https://www.instagram.com/axrcode"
     }
 }
